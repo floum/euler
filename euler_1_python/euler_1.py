@@ -2,7 +2,6 @@ import sys
 
 def euler_1(threshold):
   """Computes the sum of the numbers divisible by 3 or 5 below the threshold"""
-  print(threshold)
   pass
 
 assert euler_1(0), 0
